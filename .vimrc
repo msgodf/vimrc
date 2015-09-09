@@ -84,3 +84,5 @@ au BufRead,BufNewFile *.gradle set filetype=groovy
 
 " Disable Markdown folding
 let g:vim_markdown_folding_disabled=1
+
+highlight LineNr ctermbg=Black
